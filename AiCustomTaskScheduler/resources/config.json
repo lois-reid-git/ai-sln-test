@@ -1,17 +1,24 @@
 {
 	"task_config": [{
 			"task_name": "Scheduled Task",
-			"task_location": "C:\\Users\\myuser\\scheduled_task.exe",
+			"task_location": "C:\\Users\\lois-\\Documents\\ai-solutions\\git\\ai-sln-test\\AiCustomTaskScheduler\\resources\\worker-task\\AiCustomTaskScheduler.Worker.exe",
 			"task_interval": 5000,
-			"task_scheduled_time": "03/16/2020 04:00:00 EST",
+			"task_scheduled_time": "04/29/2020 13:30:00",
 			"task_scheduled": "true"
 		},
 		{
 			"task_name": "Important Task",
-			"task_location": "C:\\Users\\myuser\\important_task.exe",
+			"task_location": "C:\\Users\\lois-\\Documents\\ai-solutions\\git\\ai-sln-test\\AiCustomTaskScheduler\\resources\\worker-task\\AiCustomTaskScheduler.Worker.exe",
 			"task_interval": 0,
 			"task_scheduled_time": "",
 			"task_scheduled": "false"
+		}, 
+		{
+			"task_name": "Repeating Task",
+			"task_location": "C:\\Users\\lois-\\Documents\\ai-solutions\\git\\ai-sln-test\\AiCustomTaskScheduler\\resources\\worker-task\\AiCustomTaskScheduler.Worker.exe",
+			"task_interval": 10,
+			"task_scheduled_time": "",
+			"task_scheduled": "true"
 		}
 	]
 }
