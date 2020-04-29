@@ -1,0 +1,10 @@
+C:\Users\lois-\Documents\ai-solutions\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler\bin\Release\AiCustomTaskScheduler.exe.config
+C:\Users\lois-\Documents\ai-solutions\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler\bin\Release\AiCustomTaskScheduler.exe
+C:\Users\lois-\Documents\ai-solutions\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler\bin\Release\AiCustomTaskScheduler.pdb
+C:\Users\lois-\Documents\ai-solutions\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler\bin\Release\Newtonsoft.Json.dll
+C:\Users\lois-\Documents\ai-solutions\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler\bin\Release\Newtonsoft.Json.xml
+C:\Users\lois-\Documents\ai-solutions\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler\obj\Release\AiCustomTaskScheduler.csprojAssemblyReference.cache
+C:\Users\lois-\Documents\ai-solutions\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler\obj\Release\AiCustomTaskScheduler.csproj.CoreCompileInputs.cache
+C:\Users\lois-\Documents\ai-solutions\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler\obj\Release\AiCustomTaskScheduler.csproj.CopyComplete
+C:\Users\lois-\Documents\ai-solutions\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler\obj\Release\AiCustomTaskScheduler.exe
+C:\Users\lois-\Documents\ai-solutions\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler\obj\Release\AiCustomTaskScheduler.pdb

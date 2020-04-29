@@ -7,7 +7,7 @@
 			"task_scheduled": "true"
 		},
 		{
-			"task_name": "Important Task",
+			task_name": "Important Task",
 			"task_location": "C:\\Users\\myuser\\important_task.exe",
 			"task_interval": 0,
 			"task_scheduled_time": "",
