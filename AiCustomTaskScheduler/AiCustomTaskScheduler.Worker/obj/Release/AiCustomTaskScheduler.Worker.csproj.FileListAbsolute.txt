@@ -1,0 +1,12 @@
+C:\Users\lois-\OneDrive\Documents\Unemployment\ai solutions\Coding Test\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler.Worker\bin\Release\AiCustomTaskScheduler.Worker.exe.config
+C:\Users\lois-\OneDrive\Documents\Unemployment\ai solutions\Coding Test\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler.Worker\bin\Release\AiCustomTaskScheduler.Worker.exe
+C:\Users\lois-\OneDrive\Documents\Unemployment\ai solutions\Coding Test\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler.Worker\bin\Release\AiCustomTaskScheduler.Worker.pdb
+C:\Users\lois-\OneDrive\Documents\Unemployment\ai solutions\Coding Test\git\ai-sln-test\AiCustomTaskScheduler\resources\AiCustomTaskScheduler.Worker.exe.config
+C:\Users\lois-\OneDrive\Documents\Unemployment\ai solutions\Coding Test\git\ai-sln-test\AiCustomTaskScheduler\resources\AiCustomTaskScheduler.Worker.exe
+C:\Users\lois-\OneDrive\Documents\Unemployment\ai solutions\Coding Test\git\ai-sln-test\AiCustomTaskScheduler\resources\AiCustomTaskScheduler.Worker.pdb
+C:\Users\lois-\OneDrive\Documents\Unemployment\ai solutions\Coding Test\git\ai-sln-test\AiCustomTaskScheduler\resources\worker-task\AiCustomTaskScheduler.Worker.exe.config
+C:\Users\lois-\OneDrive\Documents\Unemployment\ai solutions\Coding Test\git\ai-sln-test\AiCustomTaskScheduler\resources\worker-task\AiCustomTaskScheduler.Worker.exe
+C:\Users\lois-\OneDrive\Documents\Unemployment\ai solutions\Coding Test\git\ai-sln-test\AiCustomTaskScheduler\resources\worker-task\AiCustomTaskScheduler.Worker.pdb
+C:\Users\lois-\OneDrive\Documents\Unemployment\ai solutions\Coding Test\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler.Worker\obj\Release\AiCustomTaskScheduler.Worker.csproj.CoreCompileInputs.cache
+C:\Users\lois-\OneDrive\Documents\Unemployment\ai solutions\Coding Test\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler.Worker\obj\Release\AiCustomTaskScheduler.Worker.exe
+C:\Users\lois-\OneDrive\Documents\Unemployment\ai solutions\Coding Test\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler.Worker\obj\Release\AiCustomTaskScheduler.Worker.pdb
