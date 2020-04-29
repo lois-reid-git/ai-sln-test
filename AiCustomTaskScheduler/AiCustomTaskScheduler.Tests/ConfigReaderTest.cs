@@ -33,7 +33,10 @@ namespace AiCustomTaskScheduler.Tests
             catch(ConfigReaderException e)
             {
                 StringAssert.Contains(e.Message, "JSON");
+                return;
             }
+
+            Assert.Fail("Expected exception not thrown");
         }
 
         [TestMethod]
@@ -47,7 +50,9 @@ namespace AiCustomTaskScheduler.Tests
             catch (ConfigReaderException e)
             {
                 StringAssert.Contains(e.Message, "JSON");
+                return;
             }
+            Assert.Fail("Expected exception not thrown");
         }
 
         [TestMethod]
