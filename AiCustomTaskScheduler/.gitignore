@@ -1,3 +1,5 @@
 # Ignore debug builds
 */**/bin/Debug
 */**/obj/Debug
+*/**/.vs/*/*/*.suo
+*/**/.vs/*/*/*/*/*.testlog
