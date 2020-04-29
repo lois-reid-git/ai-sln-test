@@ -22,22 +22,6 @@ namespace AiCustomTaskScheduler.Tests
             Assert.IsNull(reader.taskConfigurations);
         }
 
-        [TestMethod]
-        public void Initialise_With_Invalid_Json()
-        {
-            // Setup and Action
-            try
-            {
-                ConfigReader reader = new ConfigReader(INVALID_JSON_PATH);
-            }
-            catch(ConfigReaderException e)
-            {
-                StringAssert.Contains(e.Message, "JSON");
-                return;
-            }
-
-            Assert.Fail("Expected exception not thrown");
-        }
 
         [TestMethod]
         public void Initialise_With_Invalid_Ext()

@@ -10,3 +10,9 @@ C:\Users\lois-\OneDrive\Documents\Unemployment\ai solutions\Coding Test\git\ai-s
 C:\Users\lois-\OneDrive\Documents\Unemployment\ai solutions\Coding Test\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler.Worker\obj\Release\AiCustomTaskScheduler.Worker.csproj.CoreCompileInputs.cache
 C:\Users\lois-\OneDrive\Documents\Unemployment\ai solutions\Coding Test\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler.Worker\obj\Release\AiCustomTaskScheduler.Worker.exe
 C:\Users\lois-\OneDrive\Documents\Unemployment\ai solutions\Coding Test\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler.Worker\obj\Release\AiCustomTaskScheduler.Worker.pdb
+C:\Users\lois-\Documents\ai-solutions\git\ai-sln-test\AiCustomTaskScheduler\resources\worker-task\AiCustomTaskScheduler.Worker.exe.config
+C:\Users\lois-\Documents\ai-solutions\git\ai-sln-test\AiCustomTaskScheduler\resources\worker-task\AiCustomTaskScheduler.Worker.exe
+C:\Users\lois-\Documents\ai-solutions\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler.Worker\obj\Release\AiCustomTaskScheduler.Worker.csprojAssemblyReference.cache
+C:\Users\lois-\Documents\ai-solutions\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler.Worker\obj\Release\AiCustomTaskScheduler.Worker.csproj.CoreCompileInputs.cache
+C:\Users\lois-\Documents\ai-solutions\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler.Worker\obj\Release\AiCustomTaskScheduler.Worker.exe
+C:\Users\lois-\Documents\ai-solutions\git\ai-sln-test\AiCustomTaskScheduler\AiCustomTaskScheduler.Worker\obj\Release\AiCustomTaskScheduler.Worker.pdb
